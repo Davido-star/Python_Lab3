@@ -4,5 +4,5 @@ David Smith.
 03.17.2021.   
 Python 3.   
 Webscraping Weather Data.   
-Summary: 
+Summary.  
 -This script pulls data from NOAA National Weather Service for a specfic location in the USA, in this case, for Helotes Texas. Locations are identified using Latitude and Longitude cooridnates in decimial degrees. 
